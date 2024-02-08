@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/abdulsamad-4/Blog-with-react.git/static/css/main.e405e5d7.css",
+    "main.js": "/abdulsamad-4/Blog-with-react.git/static/js/main.a1f75083.js",
+    "static/media/train-8517089_1280.jpg": "/abdulsamad-4/Blog-with-react.git/static/media/train-8517089_1280.7b93ef4ae7e2f028c960.jpg",
+    "static/media/nature-8339115_1280.jpg": "/abdulsamad-4/Blog-with-react.git/static/media/nature-8339115_1280.3a4d702adba5424347f6.jpg",
+    "index.html": "/abdulsamad-4/Blog-with-react.git/index.html",
+    "main.e405e5d7.css.map": "/abdulsamad-4/Blog-with-react.git/static/css/main.e405e5d7.css.map",
+    "main.a1f75083.js.map": "/abdulsamad-4/Blog-with-react.git/static/js/main.a1f75083.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e405e5d7.css",
+    "static/js/main.a1f75083.js"
+  ]
+}
